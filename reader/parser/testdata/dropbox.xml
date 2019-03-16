@@ -1,0 +1,2002 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" xmlns:media="http://search.yahoo.com/mrss/">
+    <channel>
+        <title>Work in Progress</title>
+        <atom:link href="https://blog.dropbox.com/feed" rel="self" type="application/rss+xml"/>
+        <link>https://blog.dropbox.com/</link>
+        <description></description>
+        <lastBuildDate>Thu, 14 Mar 2019 15:44:00 -0700</lastBuildDate>
+        <language>en</language>
+        <sy:updatePeriod>hourly</sy:updatePeriod>
+        <sy:updateFrequency>1</sy:updateFrequency>
+        <image>
+            <url></url>
+            <title></title>
+            <link></link>
+        </image>
+        
+            
+                <item>
+                    <title>Dropbox gains momentum in education, empowering the next generation of knowledge workers</title>
+                    <link>https://blog.dropbox.com/topics/business/dropbox-gains-momentum-in-education--empowering-the-next-generat</link>
+                    <dc:creator>Dropbox Team></dc:creator>
+                    <category>News></category><category>Business></category>
+                    <guid>https://blog.dropbox.com/topics/business/dropbox-gains-momentum-in-education--empowering-the-next-generat</guid>
+                    <description><![CDATA[]]></description>
+                    <pubDate>Thu, 14 Mar 2019 15:44:00 -0700</pubDate>
+                    <content:encoded><![CDATA[
+<div class="aem-Grid aem-Grid--12 aem-Grid--default--12 ">
+    
+    <div class="b02-rich-text-plank text parbase aem-GridColumn aem-GridColumn--default--12">
+
+
+
+<div class="b02-rich-text-plank__wrapper">
+    <div class="b02-rich-text-plank__container  ">
+        <div class="b02-rich-text-plank__sidebar">
+
+
+
+</div>
+        <div class="b02-rich-text-plank__content">
+            <div class="a01-text">
+
+<p>Dropbox has been growing rapidly in education. Between 2017 and 2018 the number of students, faculty, and administrators enrolled in Dropbox Education has risen almost 50%. This includes new customers and expanded deployments like Cal State Fullerton, University of Florida, and UNC Charlotte that have joined our expanding family of innovative educational institutions.</p>
+<p>We?re also excited to announce new partnerships with leading education apps that will improve the daily experience of students, faculty, and researchers on campuses around the world. They?ll have access to Klaxoon, Pronto, and WeVideo along with our existing Dropbox education partners Blackboard, Canvas, and Turnitin. The integration of these new tools furthers our goal of providing education customers with a unified home for all their content and collaboration.<br />
+</p>
+<p>?Educators understand that for the next generation of knowledge workers, learning how to work together is a core competence,? says Dropbox Education Lead, Marshall Kurtz. ?Bringing Dropbox together with learning management systems and applications that boost student engagement helps schools prepare students to succeed in the workforce of tomorrow.?<br />
+</p>
+<p>And our education customers are using more apps with Dropbox to fulfill this mission. We?ve seen a more than 50% increase in linking one or more third-party apps among individual users and a 30+% increase among teams. These new product capabilities will make sharing assignments, giving feedback, working on group projects, and learning together even easier.</p>
+<p><a href="https://klaxoon.com/en/blog/klaxoon-and-dropbox?utm_source=dropbox&amp;utm_medium=partenariat"><b>Klaxoon</b></a> is an innovative suite of applications that improves teamwork efficiency. Instructors at top-ranked institutions in Europe and the US are increasing student engagement with its polls, word clouds, and other interactive tools. Users can bring Dropbox content into collaborative activities like Brainstorm, Challenge, and Quiz. ?The techniques that foster smart teamwork and lively meetings in businesses also makes Klaxoon a great solution for students looking to build efficient collaborative practices,? says Klaxoon CEO, Matthieu Beucher.</p>
+<p><a href="https://www.wevideo.com/blog/news/wevideo-and-dropbox-partner-in-higher-education/"><b>WeVideo</b></a> is an easy-to-use video creation and digital learning platform that also straddles the line between next-generation business communication tool and highly motivating educational experience for students at every grade level. Users can upload media files from Dropbox to the video editor, as well as export their finished videos directly to Dropbox. ?We want students to collaborate more openly and effectively, and have a chance to learn at the deepest levels,? says Dr. Nathan Lang-Raad, Chief Education Officer of WeVideo. ?WeVideo promotes meaningful learning and self-exploration that expands beyond the walls of the classroom.?</p>
+<p><a href="https://www.trypronto.com/education"><b>Pronto</b></a> also prepares students for the world beyond the classroom, with a unified real time communication app for teachers, students, and administrators. Now they can access Dropbox content directly from within Pronto. ?By bringing mobile-first video conferencing, messaging, file sharing, and task management together for higher education, we?re building highly-connected communities around learning,? says Shane Bills of Pronto.</p>
+<p>These new integrations will be available today to all Dropbox users.</p>
+<p>The common denominator in all of these new ways of learning is shared and secure access to content, which is where Dropbox comes in. Of the more than 2.5B files education customers added in 2018, almost 30% of them were to shared folders. Shared content and app integrations boost active learning and reduce tedious administrative labor, creating a better educational environment for everyone. We?re continuing to expand our partnerships, giving everyone the ability to use whatever tools they?d like to teach and learn?no team is locked into a single ecosystem. Here?s how some of our participating schools are using Dropbox to design more enlightened ways of learning:</p>
+<p>?With Dropbox, our community has a tool to help get work done,? says Amir Dabirian, Vice President for Information Technology and Chief Information Officer of <b>Cal State Fullerton</b>. ?Professors have a central place for lecture materials and assignments and students can work together on a project and easily share with a professor via a file request.?</p>
+<p>At the <b>University of Florida</b>, more than 6,000 users are connected with Dropbox across over 100 facilities statewide. ?From talking to our IT directors, our professors, and our staff, we could see users were accomplishing a lot of great work on Dropbox that wouldn?t necessarily translate to another tool,? said CIO Elias Eldayrie. ?Making the choice to deploy Dropbox allowed all that work to continue, uninterrupted, in the most secure way possible.?</p>
+<p>Researchers at <b>UNC Charlotte</b> share a proprietary motion tracking application with biologists around the world using Dropbox. In return for access to the tracker, biologists studying everything from social insects to cancer cells, share their videos and data to improve the underlying algorithm. The UNCC research team uses <a href="https://www.dropbox.com/paper/guide">Dropbox Paper</a> to plan out every step of the project, brainstorming, compiling past research, and using the LaTeX formatting option to display formulas and equations properly.</p>
+<p>As we write in a <a href="https://blog.dropbox.com/topics/work-culture/collaboration-in-education" style="background-color: rgb(255,255,255);">companion post</a>, ?learning how to learn is is one of most valuable skills students can bring into the workplace.? At Dropbox, we?re proud to be part of all these ways schools are making education more engaging, inclusive, and (we hope) fun.<br />
+</p>
+
+</div>
+            
+
+
+
+
+        </div>
+    </div>
+</div>
+</div>
+
+    
+</div>]]></content:encoded>
+                    <media:thumbnail url="https://aem.dropbox.com/cms/content/dam/dropbox/blog/business/2019/EDU_Vertical_Blog@2x.jpg.transform/blogThumb/image.jpg"/>
+                    <media:content url="https://aem.dropbox.com/cms/content/dam/dropbox/blog/business/2019/EDU_Vertical_Blog@2x.jpg.transform/blogThumb/image.jpg" medium="image">
+                        <media:title type="html"></media:title>
+                    </media:content>
+                </item>
+            
+        
+            
+                <item>
+                    <title>Preparing students for the workplace begins with more collaboration in education</title>
+                    <link>https://blog.dropbox.com/topics/work-culture/collaboration-in-education</link>
+                    <dc:creator>Marshall Kurtz></dc:creator>
+                    <category>Work Culture></category>
+                    <guid>https://blog.dropbox.com/topics/work-culture/collaboration-in-education</guid>
+                    <description><![CDATA[]]></description>
+                    <pubDate>Thu, 14 Mar 2019 09:00:00 -0700</pubDate>
+                    <content:encoded><![CDATA[
+<div class="aem-Grid aem-Grid--12 aem-Grid--default--12 ">
+    
+    <div class="b10-article-intro-text-plank aem-GridColumn aem-GridColumn--default--12">
+
+
+
+<div class="b10-article-intro-text-plank__wrapper">
+    <div class="b10-article-intro-text-plank__container">
+        <p class="b10-article-intro-text-plank__text">
+            The way we work is changing fast. Skills in demand today could be obsolete tomorrow. 
+        </p>
+    </div>
+</div>
+</div>
+<div class="b02-rich-text-plank text parbase aem-GridColumn aem-GridColumn--default--12">
+
+
+
+<div class="b02-rich-text-plank__wrapper">
+    <div class="b02-rich-text-plank__container  ">
+        <div class="b02-rich-text-plank__sidebar">
+
+
+
+    
+    
+    <div class="a04-tags">
+
+
+
+<div class="a04-tags__container">
+    <div class="a04-tags__title">Filed under</div>
+    <ul class="a04-tags__tags">
+        
+        <li class="a04-tags__tag">
+            <a class="a04-tags__tag-link" href="https://blog.dropbox.com/topics/work-culture">Work Culture</a>
+        </li>
+    
+    </ul>
+</div>
+</div>
+
+
+</div>
+        <div class="b02-rich-text-plank__content">
+            <div class="a01-text">
+
+<p>To prepare for the <a href="https://www.manpowergroup.com/wps/wcm/connect/aedec655-2cc6-4e8b-8795-5f4d892ea277/Human+Age+2.0++Future+Forces+at+Work.pdf?MOD=AJPERES&amp;amp;CACHEID=aedec655-2cc6-4e8b-8795-5f4d892ea277">ever-evolving</a> workplace, students will need to master the art of learning new skills. And one of the best ways to learn new skills? Collaboration. That?s why universities are changing the way they teach, and why <a href="https://blog.dropbox.com/topics/business/dropbox-gains-momentum-in-education--empowering-the-next-generat.html">Dropbox is working to make it easier for students, staff, and faculty to connect in new ways</a>.</p>
+<h2>It?s not what you know, it?s how well you learn</h2>
+<p>For some, college is the time to acquire job-specific skills and industry-specific training. Now, job skills need to be updated as often as your software. In fact, the World Economic Forum reports ?up to <a href="https://www.weforum.org/agenda/2016/08/this-little-known-skill-will-save-your-job-and-your-company/">65% of the jobs</a> Generation Z will perform don?t even exist yet.? And <a href="https://www.weforum.org/agenda/2016/08/this-little-known-skill-will-save-your-job-and-your-company/">automation</a> continues to displace many of the jobs that humans do today. </p>
+<p>These changes have been a wake-up call for the next generation of workers, and a motivation for students and universities to rethink their approach. Though STEM-based majors are as popular as ever, educators say <a href="https://www.edweek.org/ew/articles/2017/09/27/learning-how-to-learn-could-be-a.html">learning how to learn</a> is one of most valuable skills students can bring into the workplace. That?s why they advise developing not only study habits, but learning habits. In an era of accelerating change, expanding your curiosity could be the best way to prepare for the future. </p>
+<h2>Teamwork leads to deeper learning</h2>
+<p>Of course, curiosity and empathy are closely linked. Both involve a willingness to listen. Working together with a team not only opens you up to new points of view, it also gives you a chance to teach what you know?which is one of the most effective ways to deepen your understanding of a subject. </p>
+
+</div>
+            
+
+
+
+
+        </div>
+    </div>
+</div>
+</div>
+<div class="b08-quote-plank aem-GridColumn aem-GridColumn--default--12">
+
+
+
+<div class="b08-quote-plank__wrapper">
+    <div class="b08-quote-plank__container">
+        <blockquote class="b08-quote-plank__quote"><p>Some medical schools are now replacing lectures with &quot;active learning&quot; environments.</p>
+</blockquote>
+    </div>
+</div>
+</div>
+<div class="b02-rich-text-plank text parbase aem-GridColumn aem-GridColumn--default--12">
+
+
+
+<div class="b02-rich-text-plank__wrapper">
+    <div class="b02-rich-text-plank__container  ">
+        <div class="b02-rich-text-plank__sidebar">
+
+
+
+</div>
+        <div class="b02-rich-text-plank__content">
+            <div class="a01-text">
+
+<p>Where learning in isolation can feel limiting?even boring?group discussions can raise questions and spark ideas you might not discover on your own. Camaraderie makes the process more engaging and less predictable. And keeping up with a group helps you <a href="https://hbr.org/2018/01/4-habits-of-people-who-are-always-learning-new-skills">stay motivated</a> longer than you might while trudging through textbooks in isolation.</p>
+<p>Group-based work like this has one key, consistent quality: interactivity. It?s not just technology that?s driving the evolution from passive note-taking to active collaborating. It?s the changing attitudes of teachers and students. Educators say treating students as ?<a href="https://writing-speech.dartmouth.edu/teaching/first-year-writing-pedagogies-methods-design/collaborative-learninglearning-peers">isolated</a><a href="https://writing-speech.dartmouth.edu/teaching/first-year-writing-pedagogies-methods-design/collaborative-learninglearning-peers"> receivers of knowledge</a>? doesn?t work anymore. </p>
+<p>Peer review workshops, collaborative research projects, and group presentations are more effective ways to learn how to write, critique, and communicate ideas because the groups provide a sense of audience and context.  </p>
+<p>For example, some medical schools are now replacing lectures with ?<a href="https://www.npr.org/sections/health-shots/2017/08/03/541411275/vermont-medical-school-says-goodbye-to-lectures">active</a><a href="https://www.npr.org/sections/health-shots/2017/08/03/541411275/vermont-medical-school-says-goodbye-to-lectures"> learning</a>? environments. Instead of taking notes about equations, students work in groups to solve problems in a classroom setting. And those are skills they?ll carry with them throughout their careers?no matter what kind of job they?re doing.</p>
+<h2>Preparing students for the future of work </h2>
+<p>So how does this translate to the students? prospects for employment? When asked what they look for in new hires, more than 80% of midsize or larger employers cited collaboration skills. Unfortunately, fewer than 40% think new graduates are prepared to work in teams. To help new employees get up to speed, many companies are turning to collaborative learning platforms that allow workers to absorb information when it?s most relevant.</p>
+
+</div>
+            
+
+
+
+
+        </div>
+    </div>
+</div>
+</div>
+<div class="b08-quote-plank aem-GridColumn aem-GridColumn--default--12">
+
+
+
+<div class="b08-quote-plank__wrapper">
+    <div class="b08-quote-plank__container">
+        <blockquote class="b08-quote-plank__quote"><p>By blending the physical and digital classrooms and making coursework more accessible, we?re helping professors spend less time on administrative tasks, and more time on teaching and research.</p>
+</blockquote>
+    </div>
+</div>
+</div>
+<div class="b02-rich-text-plank text parbase aem-GridColumn aem-GridColumn--default--12">
+
+
+
+<div class="b02-rich-text-plank__wrapper">
+    <div class="b02-rich-text-plank__container  ">
+        <div class="b02-rich-text-plank__sidebar">
+
+
+
+</div>
+        <div class="b02-rich-text-plank__content">
+            <div class="a01-text">
+
+<p>By providing workers with collaborative technology, companies also benefit by encouraging employees to share their knowledge across the organization. As a result, employers are placing a higher value on learnability. As one professor pointed out, ?When we can all retrieve the same information, the <a href="https://hbr.org/2018/07/take-control-of-your-learning-at-work">key differentiator</a> is not access to data, but the ability to make use of it.?</p>
+<h2>Providing a unified home for information</h2>
+<p>The way commuter students collaborate in virtual study groups now is analogous to the way remote workers share information with their team. Both use video conferencing and online co-editing docs to share notes. If you?re studying abroad or living at home, those tools save trips back to campus. That?s one of the reasons many universities have been moving workflows and research online. </p>
+<p>By blending the physical and digital classrooms and making coursework more accessible, we?re helping professors spend less time on administrative tasks, and more time on teaching and research.</p>
+<p><a href="https://blog.dropbox.com/topics/business/dropbox-gains-momentum-in-education--empowering-the-next-generat.html">N</a><a href="https://blog.dropbox.com/topics/business/dropbox-gains-momentum-in-education--empowering-the-next-generat.html">ew</a><a href="https://blog.dropbox.com/topics/business/dropbox-gains-momentum-in-education--empowering-the-next-generat.html"> </a><a href="https://blog.dropbox.com/topics/business/dropbox-gains-momentum-in-education--empowering-the-next-generat.html">partnerships</a><a href="https://blog.dropbox.com/topics/business/dropbox-gains-momentum-in-education--empowering-the-next-generat.html"> </a><a href="https://blog.dropbox.com/topics/business/dropbox-gains-momentum-in-education--empowering-the-next-generat.html">with </a><a href="https://blog.dropbox.com/topics/business/dropbox-gains-momentum-in-education--empowering-the-next-generat.html">Klaxoon, Pronto, </a><a href="https://blog.dropbox.com/topics/business/dropbox-gains-momentum-in-education--empowering-the-next-generat.html">and </a><a href="https://blog.dropbox.com/topics/business/dropbox-gains-momentum-in-education--empowering-the-next-generat.html">WeVideo</a> are helping bring that to life. Soon, students and faculty around the world will have access to leading education apps that make it easier to share assignments, give feedback, and work on group projects.</p>
+<p>At Dropbox, our goal is to take the friction out of working as a team. We?re researching how students and educators interact, so we can help them keep developing skills throughout their careers. To see how we?re fueling cross-campus learning and innovative research, check out our new eBook, <a href="https://go.dropbox.com/en-us/secure-mobility-in-higher-ed?_tk=blog&amp;_camp=flow3-edu&amp;_net=ewow&amp;_ad=inline"><i>Secure Mobility in Higher Ed</i></a><i>.</i></p>
+
+</div>
+            
+
+
+
+
+        </div>
+    </div>
+</div>
+</div>
+<div class="b03-large-image-plank aem-GridColumn aem-GridColumn--default--12">
+
+
+
+<div class="b03-large-image-plank__wrapper cq-dd-image">
+    <div class="b03-large-image-plank__container img-left">
+        
+        <div class="b03-large-image-plank__image">
+            
+            <a href="https://go.dropbox.com/en-us/secure-mobility-in-higher-ed?_tk=blog&amp;_camp=flow3-edu&amp;_net=ewow&amp;_ad=footer">
+                
+    
+
+        
+
+        
+        
+        
+
+        
+        
+        
+
+        
+        
+
+        
+        <img src="https://aem.dropbox.com/cms/content/dam/dropbox/blog/files/2019/03/secure-collab-edu-banner.png" height="295" width="960"/>
+
+    
+
+            </a>
+            
+        </div>
+    </div>
+</div>
+</div>
+
+    
+</div>]]></content:encoded>
+                    <media:thumbnail url="https://aem.dropbox.com/cms/content/dam/dropbox/blog/files/2019/03/ewow-in-edu-square.jpg.transform/blogThumb/image.jpg"/>
+                    <media:content url="https://aem.dropbox.com/cms/content/dam/dropbox/blog/files/2019/03/ewow-in-edu-square.jpg.transform/blogThumb/image.jpg" medium="image">
+                        <media:title type="html"></media:title>
+                    </media:content>
+                </item>
+            
+        
+            
+                <item>
+                    <title>Go with the Flow State: How music is helping people focus at work</title>
+                    <link>https://blog.dropbox.com/topics/work-culture/flow-state-music-helps-people-focus-at-work</link>
+                    <dc:creator>Joe Veix></dc:creator>
+                    <category>Work Culture></category>
+                    <guid>https://blog.dropbox.com/topics/work-culture/flow-state-music-helps-people-focus-at-work</guid>
+                    <description><![CDATA[]]></description>
+                    <pubDate>Wed, 13 Mar 2019 09:00:00 -0700</pubDate>
+                    <content:encoded><![CDATA[
+<div class="aem-Grid aem-Grid--12 aem-Grid--default--12 ">
+    
+    <div class="b10-article-intro-text-plank aem-GridColumn aem-GridColumn--default--12">
+
+
+
+<div class="b10-article-intro-text-plank__wrapper">
+    <div class="b10-article-intro-text-plank__container">
+        <p class="b10-article-intro-text-plank__text">
+            Sometimes it?s hard to start. Not for lack of ambition or enthusiasm?it?s just? the vibe isn?t right. Thankfully, there?s a way to overcome this problem, besides wandering around in a fog of procrastination. 
+        </p>
+    </div>
+</div>
+</div>
+<div class="b02-rich-text-plank text parbase aem-GridColumn aem-GridColumn--default--12">
+
+
+
+<div class="b02-rich-text-plank__wrapper">
+    <div class="b02-rich-text-plank__container  ">
+        <div class="b02-rich-text-plank__sidebar">
+
+
+
+    
+    
+    <div class="a04-tags">
+
+
+
+<div class="a04-tags__container">
+    <div class="a04-tags__title">Filed under</div>
+    <ul class="a04-tags__tags">
+        
+        <li class="a04-tags__tag">
+            <a class="a04-tags__tag-link" href="https://blog.dropbox.com/topics/work-culture">Work Culture</a>
+        </li>
+    
+    </ul>
+</div>
+</div>
+
+
+</div>
+        <div class="b02-rich-text-plank__content">
+            <div class="a01-text">
+
+<p>A current obsession?call it a trend, if you must?are flow state playlists, which have become kind of a <i>thing</i> in the last few months. Basically, they?re heavily curated collections of music designed to assist people needing a little extra gumption. They?re like a nice afternoon caffeine boost, without having to deal with a rude barista.</p>
+<p>One of the best work playlists out there currently is a newsletter called<a href="http://flowstate.fm/"><u> Flow State</u></a>. Every weekday morning, it sends a batch of albums (or playlists, or mixtapes...) of perfect music to work to, usually around two hours worth, designed to get you into a productive, er, flow state. </p>
+<p>Each newsletter also includes a quick summary of the featured music, offering useful background info and insight into its composition. In a recent email, for example, describing the drone music of Pausal: ?Avifaunal sounds like Beethoven slowed down 80% and played in a rainforest.?</p>
+<p>The newsletters don?t just consist of stray sounds emanating from an eternal void, but provide something more human. It?s simultaneously informative <i>and</i> boosts one?s productivity?this essay likely wouldn?t have been written without it.</p>
+
+</div>
+            
+
+
+
+
+        </div>
+    </div>
+</div>
+</div>
+<div class="b08-quote-plank aem-GridColumn aem-GridColumn--default--12">
+
+
+
+<div class="b08-quote-plank__wrapper">
+    <div class="b08-quote-plank__container">
+        <blockquote class="b08-quote-plank__quote"><p>Flow State was a chance to try to create a meaningful, <i>intentional</i> collection of work music, with perhaps more emphasis on the <i>music</i> than the <i>work</i>.</p>
+</blockquote>
+    </div>
+</div>
+</div>
+<div class="b02-rich-text-plank text parbase aem-GridColumn aem-GridColumn--default--12">
+
+
+
+<div class="b02-rich-text-plank__wrapper">
+    <div class="b02-rich-text-plank__container  ">
+        <div class="b02-rich-text-plank__sidebar">
+
+
+
+</div>
+        <div class="b02-rich-text-plank__content">
+            <div class="a01-text">
+
+<p>The selections are usually ambient works, quiet but not too, somewhat relaxing, usually with a fast enough tempo to keep someone from falling asleep, but not so fast to be distracting. A sampling of some of the songs in the list since we first subscribed shows a wide range of taste: a digital backup of a rare cassette <a href="https://www.youtube.com/watch?v=R0sMe8RGwl0"><u>from composer Brian Hand</u></a>; the post-rock genius of Talk Talk?s <a href="https://open.spotify.com/album/4YXo7p7aubyVIbNLoVlBp9"><i><u>Spirit of Eden</u></i></a> (in mourning, following <a href="https://www.theguardian.com/music/2019/feb/25/mark-hollis-lead-singer-of-talk-talk-dies-at-age-64-reports-say">the passing of Mark Hollis</a>); the found-sound ambient synth washes of <a href="https://open.spotify.com/album/3Uuqm9lXB2aTrdd0KsTctG"><u>Celestial Trax</u></a>; and the ahead-of-its-time pumping disco beats of <a href="https://open.spotify.com/album/1qjr1IwW9v89MunDnVyEhh"><u>Patrick Cowley</u></a>. The links typically feature all streaming platforms, when possible, though sometimes go out to YouTube videos and Soundcloud links for rarities.</p>
+<p>Flow State is run semi-anonymously by a guy based in New York named Marcus, with occasional help from his friends. He started it in December, after the company he was working for got bought out, and he suddenly had some extra time to work on side projects. </p>
+<p>As Marcus tells us, he was having trouble finding decent music to work to. Though there are plenty of blogs and playlists devoted to ?work music,? they often seem to miss the mark.</p>
+<p>Flow State was a chance to try to create a meaningful, <i>intentional</i> collection of work music, with perhaps more emphasis on the <i>music</i> than the <i>work</i>. He figured a newsletter was the best way to convey this kind of information. It seemed to strike a chord (pun intended and immediately regretted). By mid-February, roughly two months later, it had over 4,000 subscribers. There?s also an option to subscribe to a premium version, which opens special access to the Monday edition of the newsletter, and comes with a custom playlist.</p>
+<p>The general success of the newsletter nudges an interesting question. What makes a good work flow playlist? Why do so many fail? ?It depends on the person,? Marcus suggests. ?For me, what we're searching for is music that creates an atmosphere of profundity.? But it also comes down to personal preferences, which of course vary wildly depending on the person. ?For our subscriber Rodrigo, he likes wall of sound and blackgaze metal,? he says. ?We're learning about what music different people like to work to, which is one facet of a great mystery: musical taste.?</p>
+<p>If there?s a common theme, though, it?s that it shouldn?t have vocals. ?I didn't realize that many people share my abhorrence of the human voice in work music,? Marcus says. ?For some people, if there's three seconds of voice in a 60 minute mix it throws the whole thing off.?</p>
+<p>As for <i>how</i> it?s all chosen, Marcus estimates about half the recommendations come from memory?he?s an admitted ?music fiend.? The rest comes from scouring the internet and friend recommendations.</p>
+
+</div>
+            
+
+
+
+
+        </div>
+    </div>
+</div>
+</div>
+<div class="b08-quote-plank aem-GridColumn aem-GridColumn--default--12">
+
+
+
+<div class="b08-quote-plank__wrapper">
+    <div class="b08-quote-plank__container">
+        <blockquote class="b08-quote-plank__quote"><p>?With Flow State, I hope people discover the music we recommend as art, inspired by something that someone lived through, created while searching for something.??Marcus</p>
+</blockquote>
+    </div>
+</div>
+</div>
+<div class="b02-rich-text-plank text parbase aem-GridColumn aem-GridColumn--default--12">
+
+
+
+<div class="b02-rich-text-plank__wrapper">
+    <div class="b02-rich-text-plank__container  ">
+        <div class="b02-rich-text-plank__sidebar">
+
+
+
+</div>
+        <div class="b02-rich-text-plank__content">
+            <div class="a01-text">
+
+<p>He has big future plans for the newsletter. This includes adding new features for premium users, like building out a digital library, as well as creating community features, like an internet art project in which all subscribers attempt together. And if all that works, ?perhaps even provide non-music things to help people focus.?</p>
+<p>Overall, he?s hoping to avoid the danger inherent with work music?that is, <a href="https://blog.dropbox.com/topics/work-culture/fitter--happier--more-productive--the-odd-history-of--productivi"><u>as we theorized in our piece on Muzak</u></a>, that the stressful nature of work can conceivably rub off on great tunes, essentially sullying them. ?When good music made by inspired artists is put to use by greedy managers to increase profits, people come to hate it. And that's a tragedy,? Marcus says. ?I love bossanova music and still whenever I tell someone this or I put on an Astrud Gilberto song, people instantly associate it with elevator music and dismiss it.? </p>
+<p>?With Flow State, I hope people discover the music we recommend as art, inspired by something that someone lived through, created while searching for something.?</p>
+<h2><b>And we?ll all <i>flow</i>-t on okay...</b></h2>
+<p>Meanwhile, over at the Dropbox offices (?? hey!), enter Davy Rudolph, Associate Creative Director for the Brand Team. He published <a href="https://medium.com/dropbox-design/playlists-to-get-you-in-the-flow-8654627f094e"><u>his own collection of work playlists</u></a>, also (and totally coincidentally) back in December. Each follows a set theme, featuring its own unique vibe. There?s <a href="https://open.spotify.com/playlist/0u6aWb2sASGahPNbe4xicY?si=olO64iMeQfq_nZ-IxG_Qpg"><u>Flow</u></a> (?Never distracting, but never dull.?), <a href="https://open.spotify.com/playlist/0u6aWb2sASGahPNbe4xicY?si=olO64iMeQfq_nZ-IxG_Qpg"><u>Focus</u></a> (?The perfect sound bed for paying serious attention.?), and <a href="https://open.spotify.com/playlist/20jWL6iok3RaEhiosWXZkj?si=flIbQ-rARw2hZhLMwQp3EQ"><u>Creative Energy</u></a> (?When you need to unleash your best ideas in a brainstorm or tap into your inner artist?). Each comes with its own custom album art, from a new artist each month (the first was designed by Justin Tran).</p>
+<p>The idea started as a way of expanding people?s notions of what an enlightened way of working could be beyond visuals. ?It?s all about creating an environment for people to work,? he explains. In other words, it?s all about creating a <i>vibe</i>.</p>
+<p>The songs on each playlist vary. <a href="https://open.spotify.com/playlist/1TJrHnUe5ivGG51aWWG6Ym?si=hdDU0B7sQDSVANxxEql4LQ" style="background-color: rgb(255,255,255);"><u>Flow</u></a>, for example, features upbeat tracks with a pronounced groove, like Octavian?s ?Hands,? rAHHH?s ?Dog Days,? and Chance the Rapper?s ?65th &amp; Ingleside.? It?s the sound of morning rain clouds dissipating revealing a sunny spring afternoon. It?s enough energy to push you across the finish line while working on a difficult project. ?It?s definitely a little bit more lively, but subdued at the same time. It?s kind of like that perfect balance of something you can listen to and work to,? he says. Focus, meanwhile, ?is very much like subdued, ethereal, atmospheric music, that?s really trying not to call too much attention to itself.?<br />
+</p>
+
+</div>
+            
+
+
+
+
+        </div>
+    </div>
+</div>
+</div>
+<div class="b08-quote-plank aem-GridColumn aem-GridColumn--default--12">
+
+
+
+<div class="b08-quote-plank__wrapper">
+    <div class="b08-quote-plank__container">
+        <blockquote class="b08-quote-plank__quote"><p>It?s kind of interesting to surmise why they work. One notion is that both offer a sense of discovery.</p>
+</blockquote>
+    </div>
+</div>
+</div>
+<div class="b02-rich-text-plank text parbase aem-GridColumn aem-GridColumn--default--12">
+
+
+
+<div class="b02-rich-text-plank__wrapper">
+    <div class="b02-rich-text-plank__container  ">
+        <div class="b02-rich-text-plank__sidebar">
+
+
+
+</div>
+        <div class="b02-rich-text-plank__content">
+            <div class="a01-text">
+
+<p>The general goal across the different lists is consistency. ?I listen to all the tracks and make sure there aren?t these moments where you?d have to go and turn the volume down, because something?s getting too out of control,? he says. Basically, set it and forget it. </p>
+<p>Like the Flow State playlists, its avid listeners are making requests, pushing it in the direction they need. Early feedback was that the playlists were <i>too</i> subdued. ?Sometimes I?ll interlace a softer acoustic song in there, just to break it up a little bit and not make it too sleepy,? he says. </p>
+<p>Again, it?s all very subjective. ?I think that just might be that focus music is very polarizing. ?Cause you can have one person who only wants to listen to classical music and that?s how they work best, or you have someone who?s into ambient focus music,? Rudolph says. ?While i try to dip into all those different genres, I think it?s difficult to find something that hits the mark for everyone. So I think that was one I?m going to have to fine tune.?</p>
+<h2><b>To each their tone</b></h2>
+<p>Between both the Flow State and Dropbox lists, it?s kind of interesting to surmise <i>why</i> they work. One notion is that both offer a sense of discovery. Rudolph hints that this might be one of the most important elements of a good playlist. ?I think people will come back more often if they listen to these playlists and are like, ?Man, I really found ten new artists that I?ve never heard of, and I love their music.??</p>
+<p>Additionally, they offer hard limits on the lengths of the playlists, both at around two hours. This seems important, in that rather than just a vague infinite background soundscape, there?s an intentionality to it. One can put on an album or playlist, planning to work on a specific set of tasks until the music ends, then take a break before starting up again. It can?t be a coincidence that this compliments the general blueprints of we outlined <a href="https://blog.dropbox.com/topics/work-culture/how-to-be-creative-in-any-kind-of-work"><u>in our previous pieces about creativity</u></a> and <a href="https://blog.dropbox.com/topics/work-culture/fitter--happier--more-productive--the-odd-history-of--productivi">productivity music</a> ? that is, having set limits on time and space to help get things done.</p>
+<p>More than anything, though, it seems important that both offer a distinctly human approach. The typically algorithmically generated selections in most work playlists often feel cold and impersonal. It seems important, the notion that another person put something together for <i>you</i>, arranging everything with thought and care. And maybe?if it?s not too floaty? this same attention and care can be transferred to whatever it is you?re creating while listening to it.</p>
+
+</div>
+            
+
+
+
+
+        </div>
+    </div>
+</div>
+</div>
+
+    
+</div>]]></content:encoded>
+                    <media:thumbnail url="https://aem.dropbox.com/cms/content/dam/dropbox/blog/files/2019/03/Blog-FlowState-DavyR.jpg.transform/blogThumb/image.jpg"/>
+                    <media:content url="https://aem.dropbox.com/cms/content/dam/dropbox/blog/files/2019/03/Blog-FlowState-DavyR.jpg.transform/blogThumb/image.jpg" medium="image">
+                        <media:title type="html"></media:title>
+                    </media:content>
+                </item>
+            
+        
+            
+                <item>
+                    <title>Behind 826 Valencia?s growth from San Francisco storefront to national tutoring powerhouse</title>
+                    <link>https://blog.dropbox.com/topics/our-community/826-valencia-national-tutoring-powerhouse</link>
+                    <dc:creator>Andrew Shen></dc:creator>
+                    <category>Made in Dropbox></category><category>Our Community></category>
+                    <guid>https://blog.dropbox.com/topics/our-community/826-valencia-national-tutoring-powerhouse</guid>
+                    <description><![CDATA[]]></description>
+                    <pubDate>Tue, 12 Mar 2019 09:00:00 -0700</pubDate>
+                    <content:encoded><![CDATA[
+<div class="aem-Grid aem-Grid--12 aem-Grid--default--12 ">
+    
+    <div class="b10-article-intro-text-plank aem-GridColumn aem-GridColumn--default--12">
+
+
+
+<div class="b10-article-intro-text-plank__wrapper">
+    <div class="b10-article-intro-text-plank__container">
+        <p class="b10-article-intro-text-plank__text">
+            Writing is hard. It?s hard even for people who write as a profession, say, like me. Or even still for people who write as a profession and are actually good at it, say, like Dave Eggers.
+        </p>
+    </div>
+</div>
+</div>
+<div class="b02-rich-text-plank text parbase aem-GridColumn aem-GridColumn--default--12">
+
+
+
+<div class="b02-rich-text-plank__wrapper">
+    <div class="b02-rich-text-plank__container  ">
+        <div class="b02-rich-text-plank__sidebar">
+
+
+
+    
+    
+    <div class="a04-tags">
+
+
+
+<div class="a04-tags__container">
+    <div class="a04-tags__title">Filed under</div>
+    <ul class="a04-tags__tags">
+        
+        <li class="a04-tags__tag">
+            <a class="a04-tags__tag-link" href="https://blog.dropbox.com/topics/made-in-dropbox">Made in Dropbox</a>
+        </li>
+    
+        <li class="a04-tags__tag">
+            <a class="a04-tags__tag-link" href="https://blog.dropbox.com/topics/our-community">Our Community</a>
+        </li>
+    
+    </ul>
+</div>
+</div>
+
+
+</div>
+        <div class="b02-rich-text-plank__content">
+            <div class="a01-text">
+
+<p><a href="https://daveeggers.net/dave-eggers">Eggers</a>, an author and Pulitzer Prize finalist, founded nonprofit <a href="https://826valencia.org/">826 Valencia</a> in 2002 along with educator Nínive Calegari to make writing easier for a specific population: kids. More specifically, kids who come from under-resourced backgrounds.</p>
+<p>It all started on 826 Valencia Street in San Francisco?s Mission District. The San Francisco Unified School District contains some of the highest-performing public schools in California, but also contains the widest gaps in performance among its students.</p>
+<p>For many of the community?s students of color, English is not their first language. And yet it?s hardly an insight to say that English literacy is a key indicator of their future opportunities. Eggers and Calegari?s goal is to help students and their overburdened teachers by providing writing programs in the city?s areas of need. Their centers are known for their whimsical and inviting atmosphere, with unusual storefronts like the original Pirate Supply Store, where you can pick up a peg leg or a student publication.</p>
+<p>?We are supporters of the public schools, and almost all our work is with the public schools,? Eggers <a href="https://www.washingtonpost.com/education/2018/10/23/too-many-kids-cant-write-well-authors-dave-eggers-tim-whitaker-explain-how-fix-that/?noredirect=on&amp;utm_term=.130fbfc7688d">told </a><a href="https://www.washingtonpost.com/education/2018/10/23/too-many-kids-cant-write-well-authors-dave-eggers-tim-whitaker-explain-how-fix-that/?noredirect=on&amp;utm_term=.130fbfc7688d"><i>The Washington Post</i></a> in a 2018 interview. ?For our after-school tutoring, we work to support the students? teachers? lesson plans. In addition, we offer extracurricular writing opportunities, from book publishing to podcasts. When it comes to the students? abilities with grammar, it is as varied as the students themselves.?</p>
+
+</div>
+            
+
+
+
+
+        </div>
+    </div>
+</div>
+</div>
+<div class="b03-large-image-plank aem-GridColumn aem-GridColumn--default--12">
+
+
+
+<div class="b03-large-image-plank__wrapper cq-dd-image">
+    <div class="b03-large-image-plank__container img-left">
+        <div class="b03-large-image-plank__caption">
+            Photo by Quynh-Le Nguyen
+        </div>
+        <div class="b03-large-image-plank__image">
+            
+            
+                
+    
+
+        
+
+        
+        
+        
+
+        
+        
+        
+
+        
+        
+
+        
+        <img src="https://aem.dropbox.com/cms/content/dam/dropbox/blog/files/2019/03/826-boy-reading.jpg" alt="Photo of a student at 826 Valencia by Quynh-Le Nguyen" height="638" width="960"/>
+
+    
+
+            
+            
+        </div>
+    </div>
+</div>
+</div>
+<div class="b02-rich-text-plank text parbase aem-GridColumn aem-GridColumn--default--12">
+
+
+
+<div class="b02-rich-text-plank__wrapper">
+    <div class="b02-rich-text-plank__container  ">
+        <div class="b02-rich-text-plank__sidebar">
+
+
+
+</div>
+        <div class="b02-rich-text-plank__content">
+            <div class="a01-text">
+
+<p>Eggers has one leading rule when it comes to teaching kids how to write: ?<i>Make it not boring. My God, make it not boring</i>.?</p>
+<p>As he explained to <i>The Washington Post</i>: ?When it comes to reading and writing, especially for kids who are reluctant or don?t think they?re ?good? at either, we have to start with content. Ignore form at the start,? he says. ?That is, if you want an eight-year-old to start loving to write, let them write about anything they want to. Let them write about left-handed gerbils from Uranus. Let them write about Lionel Messi. It doesn?t matter. The point is if they?re given the chance to write about what they love, they?ll be engaged.?</p>
+<p>Extraterrestrial southpaw rodents aside, another key to engaging students is one-on-one tutelage. Volunteers are the engine that keep 826 Valencia going.</p>
+<p>?The one-on-one attention we provide helps them build their resilience during the writing process,? says Bita Nazarian, Executive Director at 826 Valencia. ?And when they share their writing with the world, they see themselves as proud, confident and skillful writers. This absolutely translates into better performance at school and beyond.?</p>
+
+</div>
+            
+
+
+
+
+        </div>
+    </div>
+</div>
+</div>
+<div class="b08-quote-plank aem-GridColumn aem-GridColumn--default--12">
+
+
+
+<div class="b08-quote-plank__wrapper">
+    <div class="b08-quote-plank__container">
+        <blockquote class="b08-quote-plank__quote"><div>?Let them write about left-handed gerbils from Uranus. Let them write about Lionel Messi. It doesn?t matter. The point is if they?re given the chance to write about what they love, they?ll be engaged.&quot;?Dave Eggers</div>
+</blockquote>
+    </div>
+</div>
+</div>
+<div class="b02-rich-text-plank text parbase aem-GridColumn aem-GridColumn--default--12">
+
+
+
+<div class="b02-rich-text-plank__wrapper">
+    <div class="b02-rich-text-plank__container  ">
+        <div class="b02-rich-text-plank__sidebar">
+
+
+
+</div>
+        <div class="b02-rich-text-plank__content">
+            <div class="a01-text">
+
+<p>Of course, a 1:1 tutor-to-student ratio is an ambitious standard to maintain. ?Our biggest challenge is growth,? Nazarian says. ?There?s more demand for our programs than we?re able to meet.?</p>
+<p>But 826 has kept up with that rising demand?and then some. Eggers and Calegari also co-founded <a href="https://826national.org/">826 National</a>, born out of 826 Valencia?s success now with chapters across seven US cities including Chicago, Washington D.C., and New Orleans.</p>
+<p>In 2018, over 4,000 active volunteers served 38,500 students across all of 826?s chapters, assisting over one thousand teachers in the process. The exact number of stories written about introverted dragons from Venus is still being tallied.</p>
+
+</div>
+            
+
+
+
+
+        </div>
+    </div>
+</div>
+</div>
+<div class="b03-large-image-plank aem-GridColumn aem-GridColumn--default--12">
+
+
+
+<div class="b03-large-image-plank__wrapper cq-dd-image">
+    <div class="b03-large-image-plank__container img-left">
+        <div class="b03-large-image-plank__caption">
+            Photo by Quynh-Le Nguyen
+        </div>
+        <div class="b03-large-image-plank__image">
+            
+            
+                
+    
+
+        
+
+        
+        
+        
+
+        
+        
+        
+
+        
+        
+
+        
+        <img src="https://aem.dropbox.com/cms/content/dam/dropbox/blog/files/2019/03/826-interior.jpg" alt="Photo of 826 Valencia by Quynh-Le Nguyen" height="638" width="960"/>
+
+    
+
+            
+            
+        </div>
+    </div>
+</div>
+</div>
+<div class="b02-rich-text-plank text parbase aem-GridColumn aem-GridColumn--default--12">
+
+
+
+<div class="b02-rich-text-plank__wrapper">
+    <div class="b02-rich-text-plank__container  ">
+        <div class="b02-rich-text-plank__sidebar">
+
+
+
+</div>
+        <div class="b02-rich-text-plank__content">
+            <div class="a01-text">
+
+<p>826 Valencia?s latest expansion is a new location in Mission Bay, an area of San Francisco where new construction will also play home to the Golden State Warriors and Dropbox?s new corporate headquarters. Following our work with 826 Valencia at their Tenderloin location, we?re eager to continue and expand our support of the organization through employee volunteering, product donations, and other service initiatives. The center is fashioned after an enchanted forest, complete with caves and unicorn horn polish.</p>
+
+</div>
+            
+
+
+
+
+        </div>
+    </div>
+</div>
+</div>
+<div class="b03-large-image-plank aem-GridColumn aem-GridColumn--default--12">
+
+
+
+<div class="b03-large-image-plank__wrapper cq-dd-image">
+    <div class="b03-large-image-plank__container img-left">
+        <div class="b03-large-image-plank__caption">
+            Photo by Quynh-Le Nguyen
+        </div>
+        <div class="b03-large-image-plank__image">
+            
+            
+                
+    
+
+        
+
+        
+        
+        
+
+        
+        
+        
+
+        
+        
+
+        
+        <img src="https://aem.dropbox.com/cms/content/dam/dropbox/blog/files/2019/03/826-smiling.jpg" alt="Photo of student at 826 Valencia by Quynh-Le Nguyen" height="638" width="960"/>
+
+    
+
+            
+            
+        </div>
+    </div>
+</div>
+</div>
+<div class="b02-rich-text-plank text parbase aem-GridColumn aem-GridColumn--default--12">
+
+
+
+<div class="b02-rich-text-plank__wrapper">
+    <div class="b02-rich-text-plank__container  ">
+        <div class="b02-rich-text-plank__sidebar">
+
+
+
+</div>
+        <div class="b02-rich-text-plank__content">
+            <div class="a01-text">
+
+<p>?Managing our growth means putting the right processes in place for fundraising, volunteer recruiting, and training so we can expand into other locations,? Nazarian says. ?And using Dropbox has been a big help in operationalizing those efforts. It?s been amazing to work with a company that really cares about our students, helps us amplify their voices, and works to support us in any way they can.?</p>
+<p>To celebrate 826?s Mission Bay opening, we partnered with the Golden State Warriors, who joined us in meeting a few students on and off the court.</p>
+
+</div>
+            
+
+
+
+
+        </div>
+    </div>
+</div>
+</div>
+<div class="b03-large-image-plank aem-GridColumn aem-GridColumn--default--12">
+
+
+
+<div class="b03-large-image-plank__wrapper cq-dd-image">
+    <div class="b03-large-image-plank__container img-left">
+        <div class="b03-large-image-plank__caption">
+            Photo by Quynh-Le Nguyen
+        </div>
+        <div class="b03-large-image-plank__image">
+            
+            
+                
+    
+
+        
+
+        
+        
+        
+
+        
+        
+        
+
+        
+        
+
+        
+        <img src="https://aem.dropbox.com/cms/content/dam/dropbox/blog/files/2019/03/826-basketball.jpg" alt="Photo of basketball players by Quynh-Le Nguyen" height="638" width="960"/>
+
+    
+
+            
+            
+        </div>
+    </div>
+</div>
+</div>
+<div class="b03-large-image-plank aem-GridColumn aem-GridColumn--default--12">
+
+
+
+<div class="b03-large-image-plank__wrapper cq-dd-image">
+    <div class="b03-large-image-plank__container img-right">
+        <div class="b03-large-image-plank__caption">
+            Posters written by students at 826 Valencia
+        </div>
+        <div class="b03-large-image-plank__image">
+            
+            
+                
+    
+
+        
+
+        
+        
+        
+
+        
+        
+        
+
+        
+        
+
+        
+        <img src="https://aem.dropbox.com/cms/content/dam/dropbox/blog/files/2019/03/826-posters.gif" height="1372" width="960"/>
+
+    
+
+            
+            
+        </div>
+    </div>
+</div>
+</div>
+<div class="b03-large-image-plank aem-GridColumn aem-GridColumn--default--12">
+
+
+
+<div class="b03-large-image-plank__wrapper cq-dd-image">
+    <div class="b03-large-image-plank__container img-left">
+        <div class="b03-large-image-plank__caption">
+            Photo by Quynh-Le Nguyen
+        </div>
+        <div class="b03-large-image-plank__image">
+            
+            
+                
+    
+
+        
+
+        
+        
+        
+
+        
+        
+        
+
+        
+        
+
+        
+        <img src="https://aem.dropbox.com/cms/content/dam/dropbox/blog/files/2019/03/826-warriors.jpg" alt="Photo of basketball players by Quynh-Le Nguyen" height="638" width="960"/>
+
+    
+
+            
+            
+        </div>
+    </div>
+</div>
+</div>
+<div class="b02-rich-text-plank text parbase aem-GridColumn aem-GridColumn--default--12">
+
+
+
+<div class="b02-rich-text-plank__wrapper">
+    <div class="b02-rich-text-plank__container  ">
+        <div class="b02-rich-text-plank__sidebar">
+
+
+
+</div>
+        <div class="b02-rich-text-plank__content">
+            <div class="a01-text">
+
+<p>We?re so looking forward to being neighbors with 826 Valencia in Mission Bay and seeing what they do next. To get involved and learn more about their team and programs, <a href="https://826valencia.org/">visit 826valencia.org</a>.</p>
+
+</div>
+            
+
+
+
+
+        </div>
+    </div>
+</div>
+</div>
+
+    
+</div>]]></content:encoded>
+                    <media:thumbnail url="https://aem.dropbox.com/cms/content/dam/dropbox/blog/files/2019/03/826-lily.jpg.transform/blogThumb/image.jpg"/>
+                    <media:content url="https://aem.dropbox.com/cms/content/dam/dropbox/blog/files/2019/03/826-lily.jpg.transform/blogThumb/image.jpg" medium="image">
+                        <media:title type="html"></media:title>
+                    </media:content>
+                </item>
+            
+        
+            
+                <item>
+                    <title>The art of tidying up your digital life</title>
+                    <link>https://blog.dropbox.com/topics/work-culture/tidying-up-your-digital-life</link>
+                    <dc:creator>Minda Honey></dc:creator>
+                    <category>Work Culture></category>
+                    <guid>https://blog.dropbox.com/topics/work-culture/tidying-up-your-digital-life</guid>
+                    <description><![CDATA[]]></description>
+                    <pubDate>Thu, 07 Mar 2019 09:00:00 -0800</pubDate>
+                    <content:encoded><![CDATA[
+<div class="aem-Grid aem-Grid--12 aem-Grid--default--12 ">
+    
+    <div class="b10-article-intro-text-plank aem-GridColumn aem-GridColumn--default--12">
+
+
+
+<div class="b10-article-intro-text-plank__wrapper">
+    <div class="b10-article-intro-text-plank__container">
+        <p class="b10-article-intro-text-plank__text">
+            Like many Americans, I was compelled by the new Netflix series ?Tidying Up with Marie Kondo? to cull the clutter from my home.
+        </p>
+    </div>
+</div>
+</div>
+<div class="b02-rich-text-plank text parbase aem-GridColumn aem-GridColumn--default--12">
+
+
+
+<div class="b02-rich-text-plank__wrapper">
+    <div class="b02-rich-text-plank__container  ">
+        <div class="b02-rich-text-plank__sidebar">
+
+
+
+    
+    
+    <div class="a04-tags">
+
+
+
+<div class="a04-tags__container">
+    <div class="a04-tags__title">Filed under</div>
+    <ul class="a04-tags__tags">
+        
+        <li class="a04-tags__tag">
+            <a class="a04-tags__tag-link" href="https://blog.dropbox.com/topics/work-culture">Work Culture</a>
+        </li>
+    
+    </ul>
+</div>
+</div>
+
+
+</div>
+        <div class="b02-rich-text-plank__content">
+            <div class="a01-text">
+
+<p>My Facebook posts echoed many of the articles hitting the Internet about people <a href="https://www.health.com/home/i-used-marie-kondos-organizing-method-and-it-was-amazing"><u>feeling happier</u></a> and experiencing a stronger sense of well-being in their personal spaces.</p>
+<p>However, that magical lightness evaporated immediately when I moved from my Facebook tab to my inbox, a lawless land overrun with nearly 12,000 unopened emails. I hastily made my way back to Facebook and asked my friends if their digital clutter weighed on them the same way the mess under their bed does.</p>
+<p>While some people saw managing their virtual space as a way to wrangle their real world anxiety, others found their quest for <a href="https://thenextweb.com/opinion/2015/07/26/bluetoot/"><u>?Inbox</u></a><a href="https://thenextweb.com/opinion/2015/07/26/bluetoot/"><u> Zero?</u></a> hopeless, and some said the digital disorganization doesn?t bother them in the least. When they shut their laptops the mess is out of sight and therefore out of mind. </p>
+<p>One person pointed out that storage is fairly inexpensive, so why bother worrying about how much virtual space you?re consuming? They?re not wrong. Vivek Sharma breaks it down for us on the <u><a href="https://www.marshall.usc.edu/blog/how-did-digital-storage-effectively-become-free">USC Marshall School of Business blog</a>:</u> ?In 1960, the cost of storing one GB was an astounding $2 million. For the same digital storage, costs decreased to $200,000 in the 1980s, $7.70 by the early 2000s, and, incredibly, just two cents by 2017.?</p>
+
+</div>
+            
+
+
+
+
+        </div>
+    </div>
+</div>
+</div>
+<div class="b08-quote-plank aem-GridColumn aem-GridColumn--default--12">
+
+
+
+<div class="b08-quote-plank__wrapper">
+    <div class="b08-quote-plank__container">
+        <blockquote class="b08-quote-plank__quote"><p>?The only difference between hoarders and collectors is organization.&quot; ?Zack Pennington</p>
+</blockquote>
+    </div>
+</div>
+</div>
+<div class="b02-rich-text-plank text parbase aem-GridColumn aem-GridColumn--default--12">
+
+
+
+<div class="b02-rich-text-plank__wrapper">
+    <div class="b02-rich-text-plank__container  ">
+        <div class="b02-rich-text-plank__sidebar">
+
+
+
+</div>
+        <div class="b02-rich-text-plank__content">
+            <div class="a01-text">
+
+<p>Technological advancements have made digital storage space more affordable than ever for consumers. So, it?s true it will cost you very little to sprawl out with your data. But if you're not mindful about it, you risk finding yourself at some period in the undetermined future stressed out about your digital mess.</p>
+<p>Zack Pennington, sales manager for the data intelligence firm <a href="https://edjsports.com"><u>EdjSports</u></a>, applies a bit of <a href="https://www.mdmag.com/physicians-money-digest/columns/my-money-md/11-2013/the-fine-line-between-collecting-and-hoarding"><u>wisdom from those in the medical profession</u></a> to his digital life, ?The only difference between hoarders and collectors is organization.?</p>
+<p>Pennington?s default tactic is to save everything. He?s hanging on to as much of his data as he can for the same reason <a href="https://smallbiztrends.com/2004/07/booming-scrapbooking-industry.html"><u>scrapbooking is a 2.5 billion dollar industry</u></a>: he wants something to look back on when he?s older. His hope is that he?ll be able to ?recreate the memories of [his] youth if the data exists somewhere.? And anyone who?s ever been asked by Facebook to tag themselves in a photo uploaded by someone else can sense his dream isn?t too far off from reality. So, Pennington suggests, ?Capture the data, then process and organize it later.?</p>
+<p>Conor Woods, Dropbox project manager focused on collaboration tools, agrees that the issue isn?t what you save, it?s how you save it, ?One thing that?s really important to me is having good naming conventions just so that I can search for stuff effectively.? Unlike a physical storage unit, Woods says when you use good naming conventions ?it doesn?t matter if all your stuff is in one horrible pile? because you can type exactly what you need into a search box and retrieve it right away. </p>
+<p>Also, the <a href="https://blogs.dropbox.com/tech/2018/09/machine-intelligence-at-dropbox-an-update-from-our-dbxi-team/"><u>machine intelligence</u></a> powering the modern cloud platform search function is more likely to serve up the file most relevant to your needs, and not some obscure thing you tossed in a folder years ago but has kind of the same file name.</p>
+
+</div>
+            
+
+
+
+
+        </div>
+    </div>
+</div>
+</div>
+<div class="b08-quote-plank aem-GridColumn aem-GridColumn--default--12">
+
+
+
+<div class="b08-quote-plank__wrapper">
+    <div class="b08-quote-plank__container">
+        <blockquote class="b08-quote-plank__quote"><p>?People let their digital lives get cluttered for the same reason they let their physical lives get cluttered. Things start to accumulate pretty slowly and then eventually it reaches a point where it feels like too much work to actually do anything about.? ?Conor Woods</p>
+</blockquote>
+    </div>
+</div>
+</div>
+<div class="b02-rich-text-plank text parbase aem-GridColumn aem-GridColumn--default--12">
+
+
+
+<div class="b02-rich-text-plank__wrapper">
+    <div class="b02-rich-text-plank__container  ">
+        <div class="b02-rich-text-plank__sidebar">
+
+
+
+</div>
+        <div class="b02-rich-text-plank__content">
+            <div class="a01-text">
+
+<p>And that?s just your <i>personal</i> digital space?what about the mess that can happen with everyone swapping and sharing files in the workplace? Woods says this is where good design and good habits come together, ?Consistency is key.</p>
+<p>That's why we designed Dropbox Business in a way that ensured everyone saw the team's folder structure the same way. Otherwise you'd get all of these people asking, 'Where's that folder? I don't see it,' because everyone set up their accounts differently. This way, the team has a structure that works for them, and everything else falls into line.&quot;<br />
+</p>
+<p>It doesn?t matter if it?s personal or professional data, Woods says the rules don?t change, ?I think the thing I keep emphasizing is picking a system or a structure ? whether it's an organizational pattern, a file naming convention, or something else ? and <i>sticking</i> with it.? If you?re ready to take on the horrible pile, Woods who likes to keep things organize online and off, has some tips.</p>
+<p>Woods says, ?People let their digital lives get cluttered for the same reason they let their physical lives get cluttered. Things start to accumulate pretty slowly and then eventually it reaches a point where it feels like too much work to actually do anything about.? </p>
+<p>If you?re at that point, Woods recommends starting with the most attainable segment of your digital life. Photos can be daunting, but general documents are more manageable, ?I call it life administrative stuff, like tax receipts or when you get your car serviced and they give you that little slip of paper that falls under the floor mat of your car and you never check it out again.?</p>
+<p>To save those documents from becoming lost or cluttering up your physical space, Woods? fix is to create a Dropbox folder labeled ?My Documents? and store all those docs there. He?s noticed many documents, like instruction manuals and warranties, now come in a digital format, but if they don?t he just scans the docs right from his phone using the <a href="https://www.dropbox.com/productivity/doc-scanner"><u>Dropbox app</u></a>.</p>
+
+</div>
+            
+
+
+
+
+        </div>
+    </div>
+</div>
+</div>
+<div class="b08-quote-plank aem-GridColumn aem-GridColumn--default--12">
+
+
+
+<div class="b08-quote-plank__wrapper">
+    <div class="b08-quote-plank__container">
+        <blockquote class="b08-quote-plank__quote"><p>To effectively launch your organization efforts, Woods encourages you to use the energy created by ?life transition moments? to get you going.</p>
+</blockquote>
+    </div>
+</div>
+</div>
+<div class="b02-rich-text-plank text parbase aem-GridColumn aem-GridColumn--default--12">
+
+
+
+<div class="b02-rich-text-plank__wrapper">
+    <div class="b02-rich-text-plank__container  ">
+        <div class="b02-rich-text-plank__sidebar">
+
+
+
+</div>
+        <div class="b02-rich-text-plank__content">
+            <div class="a01-text">
+
+<p>In your ?My Documents? folder you can create sub-folders for Home, Family, Financial and Car. And it?s easy to give anyone who needs it access to these important folders, which can really make a difference when families are faced with navigating a crisis or a loss. If you have no interest in seeing your massive life archive Dropbox folder, you can ?uncheck? it through <a href="https://www.dropbox.com/help/syncing-uploads/selective-sync-overview"><u>selective sync</u></a> and it won?t be visible from your computer.</p>
+<p>I had a few mom-friends on my Facebook thread concerned about the thousands of photos on their phone, but they were loathe to sort through them all and resistant to mass deleting them because they didn?t want to accidentally get rid of any of the precious moments they?d captured of their children.</p>
+<p>Woods? tips for organizing your photos is to begin by sorting them by year. Then sort each year by month. Review each month?s worth of photos at a pace that?s comfortable for you. Going forward, he also recommends creating a folder for each member of your family and dropping the photos in the appropriate folders as you take them.</p>
+<p>To effectively launch your organization efforts, Woods encourages you to use the energy created by ?life transition moments? to get you going. This could be the start of a new year, a birthday, a new job or even just purchasing a new laptop.</p>
+<p>When I bought a new laptop in December, I decided I needed to go through all the files on my old one and only transfer what I really needed to my new laptop. This process dragged on for so long, the battery finally started to die on my old laptop and I was forced to transition everything over to my new one. </p>
+<p>In the end, I decided a perspective shift was easier than actually facing my digital clutter. I?m now looking at all these emails, photos and miscellaneous files as a digital time capsule I look forward to unpacking in the future. Don?t tell Marie Kondo.</p>
+
+</div>
+            
+
+
+
+
+        </div>
+    </div>
+</div>
+</div>
+
+    
+</div>]]></content:encoded>
+                    <media:thumbnail url="https://aem.dropbox.com/cms/content/dam/dropbox/blog/files/2019/03/Tidying-up.jpg.transform/blogThumb/image.jpg"/>
+                    <media:content url="https://aem.dropbox.com/cms/content/dam/dropbox/blog/files/2019/03/Tidying-up.jpg.transform/blogThumb/image.jpg" medium="image">
+                        <media:title type="html"></media:title>
+                    </media:content>
+                </item>
+            
+        
+            
+                <item>
+                    <title>Fast tracking: How 3 musicians created a song in 24 hours</title>
+                    <link>https://blog.dropbox.com/topics/our-community/24-hours-in-the-future-classic-studio</link>
+                    <dc:creator>Liz Armistead></dc:creator>
+                    <category>Made in Dropbox></category><category>Our Community></category>
+                    <guid>https://blog.dropbox.com/topics/our-community/24-hours-in-the-future-classic-studio</guid>
+                    <description><![CDATA[]]></description>
+                    <pubDate>Tue, 05 Mar 2019 09:00:00 -0800</pubDate>
+                    <content:encoded><![CDATA[
+<div class="aem-Grid aem-Grid--12 aem-Grid--default--12 ">
+    
+    <div class="b10-article-intro-text-plank aem-GridColumn aem-GridColumn--default--12">
+
+
+
+<div class="b10-article-intro-text-plank__wrapper">
+    <div class="b10-article-intro-text-plank__container">
+        <p class="b10-article-intro-text-plank__text">
+            Since opening in March 2018, the Future Classic x Dropbox studio has become a place where established and emerging musicians can build community and bring collaborations to life. 
+        </p>
+    </div>
+</div>
+</div>
+<div class="b02-rich-text-plank text parbase aem-GridColumn aem-GridColumn--default--12">
+
+
+
+<div class="b02-rich-text-plank__wrapper">
+    <div class="b02-rich-text-plank__container  ">
+        <div class="b02-rich-text-plank__sidebar">
+
+
+
+    
+    
+    <div class="a04-tags">
+
+
+
+<div class="a04-tags__container">
+    <div class="a04-tags__title">Filed under</div>
+    <ul class="a04-tags__tags">
+        
+        <li class="a04-tags__tag">
+            <a class="a04-tags__tag-link" href="https://blog.dropbox.com/topics/made-in-dropbox">Made in Dropbox</a>
+        </li>
+    
+        <li class="a04-tags__tag">
+            <a class="a04-tags__tag-link" href="https://blog.dropbox.com/topics/our-community">Our Community</a>
+        </li>
+    
+    </ul>
+</div>
+</div>
+
+
+</div>
+        <div class="b02-rich-text-plank__content">
+            <div class="a01-text">
+
+<p>Throughout the year, the <a href="https://blog.dropbox.com/topics/company/future-classic-dropbox-studio">Future Classic x Dropbox Studio</a> has hosted <a href="https://blog.dropbox.com/topics/our-community/future-classic-live-shows">events</a> and created a working space for hundreds of artists, including <b>Moses Sumney, JPEGMAFIA, Flight Facilities, Ryan Hemsworth, Clairo, Slauson Malone, UMI, Claud, SOPHIE, Clams Casino, Jacques Greene </b>to name a few. </p>
+<p>It?s given the team a chance to meet touring players, gifted songwriters, and brilliant young vocalists, and watch how they work. </p>
+<p>?One of the coolest parts about this is, I can see someone working and then recommend that they work with this producer or this vocalist,? says Theo Bark, A&amp;R at Future Classic. ?We wanted to try that out and put a few people in a room for a few hours and see if they could get a song together from start to finish.?</p>
+<p>It?s a new project they?re calling ?24 Hours in the Studio.? A series of cameras were set up across the studio to capture the collaboration in action. For the first collaboration, the team asked <a href="https://www.instagram.com/deatonchrisanthony/">Deaton Chris Anthony</a>, <a href="https://www.instagram.com/reocragun/">Reo Cragun</a>, and <a href="https://www.instagram.com/cecigofficial/">Ceci G</a> to see what they could create.</p>
+
+</div>
+            
+
+
+
+
+        </div>
+    </div>
+</div>
+</div>
+<div class="b14-video-plank aem-GridColumn aem-GridColumn--default--12">
+
+
+<div class="b14-video-plank__wrapper">
+  <div class="b14-video-plank__container">
+      <div class="a02-video">
+
+
+
+<div class="a02-video__preview ">
+    <div class="a02-video__poster">
+        <img class="a02-video__image" src="https://aem.dropbox.com/cms/content/dam/dropbox/blog/files/2019/03/future-classic-24hours2.png"/>
+        <button class="a02-video__play"><i class="icon-play"></i><span class="sr-only">Play</span></button>
+    </div>
+    
+</div>
+<div class="a02-video__player "><div /></div>
+</div>
+  </div>
+</div>
+</div>
+<div class="b02-rich-text-plank text parbase aem-GridColumn aem-GridColumn--default--12">
+
+
+
+<div class="b02-rich-text-plank__wrapper">
+    <div class="b02-rich-text-plank__container  ">
+        <div class="b02-rich-text-plank__sidebar">
+
+
+
+</div>
+        <div class="b02-rich-text-plank__content">
+            <div class="a01-text">
+
+<p><b>What was it about these three artists that inspired you to invite them into the project?</b></p>
+<p><i>Theo</i>: Reo is an artist that we've all been fans of and have followed for a while, he's been through the studio a bunch and is generally just really talented and smart. He has an amazing voice and he works really quickly?but most importantly, he's great in the room. So he was kind of perfect.</p>
+<p>DCA is an artist working out of LA. I don't think he left the studio for 2 weeks. So I was able to see how he worked. I knew he'd be a good fit. He was similarly really easy to work with: smart, talented, and kind. Also, he's fun to hang out with. He uses everything in the room, brings his own gear, including a talk box?so another easy call.</p>
+<p>Finally, Ceci G is a producer and vocalist that I thought would be interesting to put in with DCA and Reo. She brings a bit more of a pop feel, but is similarly cool and talented. They all have their own distinct lanes, but so much of A&amp;R and songwriting is trial and error, so we decided to film the whole thing and we're psyched about the result.</p>
+
+</div>
+            
+
+
+
+
+        </div>
+    </div>
+</div>
+</div>
+<div class="b08-quote-plank aem-GridColumn aem-GridColumn--default--12">
+
+
+
+<div class="b08-quote-plank__wrapper">
+    <div class="b08-quote-plank__container">
+        <blockquote class="b08-quote-plank__quote"><p>&quot;<i>Because we have so many artists coming through, and potentially so many conflicting schedules, we use Dropbox Paper internally, so the whole team can view the schedule in real time.??Theo Bark</i></p>
+</blockquote>
+    </div>
+</div>
+</div>
+<div class="b02-rich-text-plank text parbase aem-GridColumn aem-GridColumn--default--12">
+
+
+
+<div class="b02-rich-text-plank__wrapper">
+    <div class="b02-rich-text-plank__container  columns--reverse">
+        <div class="b02-rich-text-plank__sidebar">
+
+
+
+    
+    
+    <div class="a07-related-article">
+
+
+
+
+<div class="b07-related-article__container">
+    <div class="b07-related-article__related">Related Articles</div>
+    <a href="https://blog.dropbox.com/topics/our-community/future-classic-vinyl-fair">
+        <div class="b07-related-article__image">
+            <img src="https://aem.dropbox.com/cms/content/dam/dropbox/blog/files/2018/08/vinyl-fair-featured1.jpg.transform/blogThumb/image.jpg" alt="Photo of records at Future Classic's Vinyl Fair"/>
+        </div>
+        <div class="b07-related-article__title">Future Classic brings fans and artists together for Vinyl Fair</div>
+    </a>
+    <div class="b07-related-article__authors">By
+        
+            <a href="https://blog.dropbox.com/authors/liz-armistead">Liz Armistead</a>
+        
+    </div>
+</div>
+</div>
+
+
+</div>
+        <div class="b02-rich-text-plank__content">
+            <div class="a01-text">
+
+<p><b>What were the most surprising insights that came out of the experience?</b></p>
+<p><i>Theo: </i>They worked on two songs. The second one didn't completely gel until the end of the session. I think it's really tricky when everyone's coming from very different musical perspectives, and you want to make sure everyone's kind of comfortable and heard in the session. </p>
+<p>Sometimes there are moments, especially when the session is made up of more than two participants who may or may not have worked together before, where you're like &quot;this <i>might </i>not work!&quot; The funny thing is, both ideas they worked on were good. We just ended up feeling like the second one was most finished, and Ceci really kind of brought that home. So much respect to Ceci, and also respect to Reo and DCA. </p>
+<p>As the <a href="https://blogs.dropbox.com/dropbox/2018/04/future-classic-dropbox-studio/">Future Classic x Dropbox Studio</a> continues to grow their community of artists, we?ll continue reporting on all the collaborative events happening here on the front lines of creativity. Stay tuned.</p>
+
+</div>
+            
+
+
+
+
+        </div>
+    </div>
+</div>
+</div>
+
+    
+</div>]]></content:encoded>
+                    <media:thumbnail url="https://aem.dropbox.com/cms/content/dam/dropbox/blog/files/2019/03/future-classic-theo-OG.png.transform/blogThumb/image.png"/>
+                    <media:content url="https://aem.dropbox.com/cms/content/dam/dropbox/blog/files/2019/03/future-classic-theo-OG.png.transform/blogThumb/image.png" medium="image">
+                        <media:title type="html"></media:title>
+                    </media:content>
+                </item>
+            
+        
+            
+                <item>
+                    <title>Dropbox ranks on many ?Best Workplaces? lists this year</title>
+                    <link>https://blog.dropbox.com/topics/company/dropbox-ranks-on-a-bunch--best-workplaces--lists-this-year</link>
+                    <dc:creator>Dropbox Team></dc:creator>
+                    <category>News></category><category>Company></category>
+                    <guid>https://blog.dropbox.com/topics/company/dropbox-ranks-on-a-bunch--best-workplaces--lists-this-year</guid>
+                    <description><![CDATA[]]></description>
+                    <pubDate>Thu, 28 Feb 2019 15:21:00 -0800</pubDate>
+                    <content:encoded><![CDATA[
+<div class="aem-Grid aem-Grid--12 aem-Grid--default--12 ">
+    
+    <div class="b02-rich-text-plank text parbase aem-GridColumn aem-GridColumn--default--12">
+
+
+
+<div class="b02-rich-text-plank__wrapper">
+    <div class="b02-rich-text-plank__container  ">
+        <div class="b02-rich-text-plank__sidebar">
+
+
+
+    
+    
+    <div class="a07-related-article">
+
+
+
+
+<div class="b07-related-article__container">
+    <div class="b07-related-article__related">Related Articles</div>
+    <a href="https://blog.dropbox.com/topics/company/an-update-on-diversity-for-2018">
+        <div class="b07-related-article__image">
+            <img src="https://aem.dropbox.com/cms/content/dam/dropbox/blog/company/2019/Blog-DiversityReport.gif"/>
+        </div>
+        <div class="b07-related-article__title">An update on diversity for 2018</div>
+    </a>
+    <div class="b07-related-article__authors">By
+        
+            <a href="https://blog.dropbox.com/authors/dropbox-team">Dropbox Team</a>
+        
+    </div>
+</div>
+</div>
+
+
+</div>
+        <div class="b02-rich-text-plank__content">
+            <div class="a01-text">
+
+<p>At Dropbox, we care a lot about our people. We strive to make a workplace where everyone can do their best work with the least amount of worry. And we also believe diversity, equity, and inclusion are key to inspiring innovation and creativity. So we?re proud to be a part of so many of this year?s lists of Best Workplaces.</p>
+<p>We were #42 on the overall <a href="http://fortune.com/best-companies/dropbox/">Best Companies to Work For</a> list. We also ranked #59 on the <a href="http://fortune.com/best-workplaces-for-diversity/dropbox-59/">Best </a><a href="http://fortune.com/best-workplaces-for-diversity/dropbox-59/">Workplaces for</a><a href="http://fortune.com/best-workplaces-for-diversity/dropbox-59/"> Diversity list</a>. Both rankings are up 22 spots from last year. In our industry, we were #15 on the <a href="http://fortune.com/2019/01/17/50-best-workplaces-in-technology/">Best </a><a href="http://fortune.com/2019/01/17/50-best-workplaces-in-technology/">Workplaces in</a><a href="http://fortune.com/2019/01/17/50-best-workplaces-in-technology/"> Technology list</a>, up 2 spots from last year.</p>
+<p>These rankings are published by Fortune Magazine, who works with research partner Great Place to Work. Surveys ask in-depth questions about employees? experiences, measuring things like company sentiment, commitment to transparency, benefits, and just how much they enjoy working at the company.</p>
+<p>We also made these other lists this year:</p>
+<p>#5 on <a href="https://www.greatplacetowork.ie/workplace/item/818/Dropbox+Ireland">Ireland?s Best Workplaces</a><a href="https://www.greatplacetowork.ie/workplace/item/818/Dropbox+Ireland"> </a><a href="https://www.greatplacetowork.ie/workplace/item/818/Dropbox+Ireland">(Medium)</a><a href="https://www.greatplacetowork.ie/workplace/item/818/Dropbox+Ireland"> list</a></p>
+<p>#15 on <a href="https://www.greatplacetowork.com/best-workplaces/new-york/2018">Best Workplaces in New York list</a> (Small &amp; Medium Companies)</p>
+<p>#16 on <a href="http://fortune.com/2019/02/28/best-companies-bay-area-2019/">Best Companies to Work For in the Bay Area list</a></p>
+<p>#18 on <a href="https://www.greatplacetowork.com/best-workplaces/companies-that-care/2018">People?s Companies that Care list</a></p>
+<p>#36 on <a href="https://www.greatplacetowork.com/best-workplaces/parents/2018">Best Workplaces for Parents list</a></p>
+
+</div>
+            
+
+
+
+
+        </div>
+    </div>
+</div>
+</div>
+
+    
+</div>]]></content:encoded>
+                    <media:thumbnail/>
+                    <media:content medium="image">
+                        <media:title type="html"></media:title>
+                    </media:content>
+                </item>
+            
+        
+            
+                <item>
+                    <title>How Dropbox is thinking about 2019</title>
+                    <link>https://blog.dropbox.com/topics/inside-dbx/how-dropbox-is-thinking-about-2019</link>
+                    <dc:creator>Dropbox Team></dc:creator>
+                    <category>News></category><category>Inside DBX></category>
+                    <guid>https://blog.dropbox.com/topics/inside-dbx/how-dropbox-is-thinking-about-2019</guid>
+                    <description><![CDATA[]]></description>
+                    <pubDate>Thu, 28 Feb 2019 12:30:00 -0800</pubDate>
+                    <content:encoded><![CDATA[
+<div class="aem-Grid aem-Grid--12 aem-Grid--default--12 ">
+    
+    <div class="b10-article-intro-text-plank aem-GridColumn aem-GridColumn--default--12">
+
+
+
+<div class="b10-article-intro-text-plank__wrapper">
+    <div class="b10-article-intro-text-plank__container">
+        <p class="b10-article-intro-text-plank__text">
+            2018 was a big year for Dropbox. But our mission to design a more enlightened way of working is just beginning. With a new year ahead of us, we?re reflecting on our own work experiences and how we want to help shape the way teams work in 2019.
+        </p>
+    </div>
+</div>
+</div>
+<div class="b02-rich-text-plank text parbase aem-GridColumn aem-GridColumn--default--12">
+
+
+
+<div class="b02-rich-text-plank__wrapper">
+    <div class="b02-rich-text-plank__container  ">
+        <div class="b02-rich-text-plank__sidebar">
+
+
+
+    
+    
+    <div class="a04-tags">
+
+
+
+<div class="a04-tags__container">
+    <div class="a04-tags__title">Filed under</div>
+    <ul class="a04-tags__tags">
+        
+        <li class="a04-tags__tag">
+            <a class="a04-tags__tag-link" href="https://blog.dropbox.com/topics/news">News</a>
+        </li>
+    
+        <li class="a04-tags__tag">
+            <a class="a04-tags__tag-link" href="https://blog.dropbox.com/topics/inside-dbx">Inside DBX</a>
+        </li>
+    
+    </ul>
+</div>
+</div>
+
+
+</div>
+        <div class="b02-rich-text-plank__content">
+            <div class="a01-text">
+
+<p>Work is in transition. Many developed nations from Europe to Japan have declared ?burnout? an occupational hazard that?s reaching epidemic levels. The International Labor Organization has called a <a href="https://www.ilo.org/global/topics/future-of-work/WCMS_569528/lang--en/index.htm">Global Commission on the future of work</a> to convene in June, 2019 to address ?major trends? like a <a href="https://www.ilo.org/global/topics/future-of-work/trends/WCMS_545648/lang--en/index.htm">growing sense that work isn?t rewarding</a>.</p>
+<p>The problem isn?t just long hours, it?s <i>how</i> we work: constantly switching between different tools and apps, distracted by notifications, trying to remember which comment thread has some key information we can?t find. We work in a state of shallow busyness?and it?s driving us nuts. It?s not just you. We feel it, too.</p>
+<p>We can?t fix work in a year. But we?re excited about what we?ve got planned for 2019. While we?re not making any product announcements in this post, here?s how we want to help impact the way teams work: </p>
+<h2>Managing app overload</h2>
+<p>As more of our work goes into the cloud, the exploding number of cloud-based apps and services has been one of the most impactful trends in the last few years. And it?s not just in tech?a <a href="https://www.okta.com/businesses-at-work/2018/">recent survey</a> found that across industries as varied as healthcare, retail, manufacturing, media and entertainment, companies increased the number of apps they use by an average of 24% from 2016 to 2018.</p>
+
+</div>
+            
+
+
+
+
+        </div>
+    </div>
+</div>
+</div>
+<div class="b08-quote-plank aem-GridColumn aem-GridColumn--default--12">
+
+
+
+<div class="b08-quote-plank__wrapper">
+    <div class="b08-quote-plank__container">
+        <blockquote class="b08-quote-plank__quote"><p>We?re excited by the pace of innovation in cloud apps, and we see creating the right environment to manage app overload as a big opportunity.</p>
+</blockquote>
+    </div>
+</div>
+</div>
+<div class="b02-rich-text-plank text parbase aem-GridColumn aem-GridColumn--default--12">
+
+
+
+<div class="b02-rich-text-plank__wrapper">
+    <div class="b02-rich-text-plank__container  ">
+        <div class="b02-rich-text-plank__sidebar">
+
+
+
+</div>
+        <div class="b02-rich-text-plank__content">
+            <div class="a01-text">
+
+<p>Many of these specialized tools offer attractive advantages. But toggling back and forth between them all creates friction. The constant context-switching adds to the state of busyness that keeps us from focusing on our most meaningful work. The tools are great?but juggling them all brings an opportunity cost.</p>
+<p>Which is why we?re building Dropbox as an open ecosystem that integrates deeply with popular workplace apps. We want to help people do more of their work, from annotating videos to signing contracts, using whatever tools they like, all within a single connected environment.</p>
+<p>We introduced Dropbox Extensions last fall to help bring this vision to life through a suite of integrations with Autodesk, Adobe, Pixlr, Vimeo, and more. We <a href="https://blog.dropbox.com/topics/company/dropbox-is-acquiring-hellosign-to-improve-document-workflows-for">recently acquired</a><a href="https://blog.dropbox.com/topics/company/dropbox-is-acquiring-hellosign-to-improve-document-workflows-for"> HelloSign</a>?our biggest acquisition to date?to help seamlessly integrate document signing into the Dropbox experience, one of the most pervasive workflows for teams of all kinds.</p>
+<p>We?re excited by the pace of innovation in cloud apps, and we see creating the right environment to manage app overload as a big opportunity.</p>
+<h2>Tuning out the noise to focus on what matters most</h2>
+<p>We?re proud to be the place where your most important work content lives. Communicating about that content and coordinating workflows around it is important, but keeping track of all the notifications and comment threads can be overwhelming.</p>
+
+</div>
+            
+
+
+
+
+        </div>
+    </div>
+</div>
+</div>
+<div class="b08-quote-plank aem-GridColumn aem-GridColumn--default--12">
+
+
+
+<div class="b08-quote-plank__wrapper">
+    <div class="b08-quote-plank__container">
+        <blockquote class="b08-quote-plank__quote"><p>We see an opportunity to help tame some of the noise of workplace communication with experiences tailor-made for this purpose, and help people reclaim focus to do their best work.</p>
+</blockquote>
+    </div>
+</div>
+</div>
+<div class="b02-rich-text-plank text parbase aem-GridColumn aem-GridColumn--default--12">
+
+
+
+<div class="b02-rich-text-plank__wrapper">
+    <div class="b02-rich-text-plank__container  ">
+        <div class="b02-rich-text-plank__sidebar">
+
+
+
+</div>
+        <div class="b02-rich-text-plank__content">
+            <div class="a01-text">
+
+<p>Most workers <a href="http://www.radicati.com/wp/wp-content/uploads/2014/01/Email-Statistics-Report-2014-2018-Executive-Summary.pdf">receive about 90 emails per day</a>, and <a href="https://www.inc.com/jessica-stillman/yup-email-is-stressing-you-out-science-confirms.html">research shows</a> that keeping up with all of it creates stress. And that?s just email?factor in the pings from all the other workplace tools you use every day, and the number of notifications vying for your attention can feel like a relentless deluge.</p>
+<p>Our attention is a finite resource, but often we act as if it?s limitless. We see an opportunity to help tame some of the noise of workplace communication with experiences tailor-made for this purpose, and help people reclaim focus to do their best work.</p>
+<h2>Not-so-artificial intelligence</h2>
+<p>AI has become a euphemism for big companies harvesting user data to target advertising. We believe in a different kind of machine intelligence that puts customers in control and empowers them to make the most of their time and mental resources. </p>
+<p>There?s a vast number of images, text files, and cloud docs that people collaborate on within Dropbox. But each is shared with a small audience. This creates technical challenges for search and retrieval as well as for security and privacy. We?re taking on these challenges because we think keeping your work organized and findable, understanding context, and prioritizing what?s important are all uniquely human needs that machine intelligence can assist. </p>
+<p>Machine intelligence powers our personalized search engine that helps users find relevant content, as well as our OCR technology that automatically scans the text in images to make it searchable. As we expand our product to solve the problems of modern work, responsible and personalized machine intelligence will play a big role.</p>
+<h2>Secure collaboration </h2>
+<p>We know that in order for many teams to create great work with Dropbox, we must first satisfy the security requirements of the IT departments that support them. Which is why we?re continuing to invest in leading edge technologies like WebAuthn and unauthorized access detection capabilities. And because security takes an entire ecosystem, last fall we announced a suite of new security integrations with Google Cloud Identity, BetterCloud, Coronet, Proofpoint, and SailPoint.</p>
+<p>Security has always been one of our top priorities. The move to the cloud itself has given businesses of all sizes access to the protections of security engineering at scale. But as the amount of vital information increases in the cloud, the needs of different types of businesses continues to expand. </p>
+<p>The native features and integrations we?ll continue building into our platform mean that companies can easily scale the security services they require without having to maintain complicated on-premises solutions. </p>
+<h2>Helping teams play nice</h2>
+<p>Each thing on this list will improve the work experience for teams. As we?ve evolved from keeping files in sync to keeping teams in sync we?ve arrived at an inflection point. Converging technologies and workplace trends are creating promising new opportunities.</p>
+<p>We believe work is in transition, and it?s making forward progress. But to make the most of the unprecedented access to information and tools for creating and communicating, we need to design a better way to manage it all. We?ve got a vision for that better way, and we?re excited to be building it.</p>
+<p>This will be a multi-year journey comprising many small steps, and a few big ones. We?ll be announcing more of both soon.</p>
+
+</div>
+            
+
+
+
+
+        </div>
+    </div>
+</div>
+</div>
+
+    
+</div>]]></content:encoded>
+                    <media:thumbnail url="https://aem.dropbox.com/cms/content/dam/dropbox/blog/files/2019/02/DBX in 2019.jpg.transform/blogThumb/image.jpg"/>
+                    <media:content url="https://aem.dropbox.com/cms/content/dam/dropbox/blog/files/2019/02/DBX in 2019.jpg.transform/blogThumb/image.jpg" medium="image">
+                        <media:title type="html"></media:title>
+                    </media:content>
+                </item>
+            
+        
+            
+                <item>
+                    <title>An update on diversity for 2018</title>
+                    <link>https://blog.dropbox.com/topics/company/an-update-on-diversity-for-2018</link>
+                    <dc:creator>Dropbox Team></dc:creator>
+                    <category>News></category><category>Company></category>
+                    <guid>https://blog.dropbox.com/topics/company/an-update-on-diversity-for-2018</guid>
+                    <description><![CDATA[]]></description>
+                    <pubDate>Thu, 28 Feb 2019 11:54:00 -0800</pubDate>
+                    <content:encoded><![CDATA[
+<div class="aem-Grid aem-Grid--12 aem-Grid--default--12 ">
+    
+    <div class="b02-rich-text-plank text parbase aem-GridColumn aem-GridColumn--default--12">
+
+
+
+<div class="b02-rich-text-plank__wrapper">
+    <div class="b02-rich-text-plank__container columns--single ">
+        
+        <div class="b02-rich-text-plank__content">
+            <div class="a01-text">
+
+<p>Our mission?designing a more enlightened way of working?is our north star for changing the way people think about work.</p>
+<p>Building the collaboration platform of the future requires diversity of experience, thought, and representation at all levels. In 2018, our Diversity, Equity, and Inclusion (DEI) team worked to build programs and projects that will help us achieve our goal of making Dropbox a great place to work for everyone. </p>
+<p>We developed a DEI Framework with five focus areas. These pillars create a common language around diversity, equity, and inclusion for our employees and have been the foundation of the programs we have introduced this year:</p>
+<ul>
+<li><b>Attract:</b> Identify and recruit top-notch diverse talent</li>
+</ul>
+<ul>
+<li><b>Retain:</b> Know the potential of our talent and deploy strategies that keep them choosing Dropbox every day</li>
+</ul>
+<ul>
+<li><b>Culture:</b> Create an environment that allows all Dropboxers to do great work</li>
+</ul>
+<ul>
+<li><b>Accountability:</b> Monitor our progress, hold ourselves accountable, and correct ourselves when we get things wrong</li>
+</ul>
+<ul>
+<li><b>Community:</b> Invest in community partnerships that enable Dropbox to prepare, attract, and recruit diverse future Dropboxers</li>
+</ul>
+<p>We?re proud of the progress we?ve made towards these goals, but we know there is still more to do. We?re grateful for what we?ve accomplished under the leadership of Angela Roseboro, our beloved Head of Diversity, Equity, and Inclusion, who has decided to leave Dropbox to pursue a new role at Riot Games. Angela has made a big impact at Dropbox in her time here, and we know this will be a great opportunity for her, and she?ll be deeply missed. While we conduct a search for a new head of Diversity, Equity, and Inclusion, we?ll stay focused on executing against the programs Angela and her team have laid the foundation for this year. We wish Angela all the best on her new adventure.</p>
+<p>Here are highlights of our DEI accomplishments both within the US and globally in 2018:</p>
+<h3>Attract</h3>
+<p><b>Telling the Dropbox story in diverse communities</b></p>
+<p>In 2018, we focused on attracting and engaging potential Dropboxers from diverse backgrounds and experiences by relaunching our<a href="https://www.facebook.com/lifeinsidedropbox/photos/meet-our-ignite-apprenticeswe-recently-welcomed-a-cohort-of-talented-apprentices/1922528541128972/"> IGNITE Apprentice Program</a>, partnering with the <a href="https://medium.com/@Dropbox/grace-hopper-2018-recap-7ca26816bfda">Grace Hopper Celebration</a> and <a href="https://medium.com/@Dropbox/dropbox-mixer-to-kick-off-afrotech-2018-591448ed268d">AfroTech</a>, and introducing our Ladies Who Lead program focused on building community among female engineers across Silicon Valley.</p>
+<h3>Retain</h3>
+<p><b>Sustaining a workplace where every Dropboxer belongs</b></p>
+<p>Our DEI and People teams partnered with BlackDropboxers, one of our Employee Resource Groups (ERGs), to spearhead a <b>Career Development Pilot program</b> that provides career growth support for Black Dropboxers. We plan to expand the program resources for our other ERGs and employees in 2019 and beyond. In addition, one of the most unique and widely popular programs we offered this year was the <b>Language Practice Program</b> that provides one-on-one language coaching for Dropboxers whose first language isn?t English. Dropboxers across multiple native tongues reported feeling more confident when speaking in both social and business settings and an increased sense of belonging.</p>
+<h3>Culture<br />
+</h3>
+<p><b>Building a more inclusive Dropbox</b></p>
+<p>Our ERGs continue to play an essential role in building our culture at Dropbox. In addition to increasing visibility for diverse communities during heritage months, our ERGs focus on supporting the growth of members by providing professional development, mentorship, and community outreach programs. Last year, we launched our official <b>Employee Resource Group Playbook</b> for running an effective ERG and building supportive communities. Our playbook helps provide guidance for those running and forming ERGs and ensures concerted efforts among ERGs to help reach company-wide DEI goals.</p>
+<p><b>Taking a stand</b></p>
+<p>In 2018, we joined 176 companies in a pledge to oppose efforts limiting Transgender rights, held our ground to support our LGBTQ community by protesting the Knesset bill that excluded LGBTQ and same sex couples from surrogacy in Tel Aviv, and changed our policy to no longer require arbitration of discrimination and sexual harassment claims. We?ll continue to support policies that drive diversity and inclusion in the countries where we operate to ensure all Dropboxers feel safe and empowered to do their best work.</p>
+<h3>Accountability<br />
+</h3>
+<p><b>Setting goals and holding leaders accountable</b></p>
+<p>Within Engineering, Product, and Design (EPD), our largest team at Dropbox, we developed and began executing a <b>two-year DEI plan</b> to attract and retain women and underrepresented minorities within the function. Our goals include holding ourselves accountable for making progress, providing transparent communication about our opportunities and challenges, and creating programs and initiatives to foster inclusion and belonging within EPD.</p>
+<h3>Community<br />
+</h3>
+<p><b>Driving early interest in tech among underrepresented populations</b></p>
+<p>We continued to invest in our early outreach programs with high school and university students. Through our partnership with <b>Skyline High School </b>in<b> </b>Oakland<b> </b>and <b>Mission High School</b> in San Francisco, we hosted panels about working in tech and workshops on engineering and coding. We also partnered with <a href="http://www.code2040.org/"><b>Code2040</b></a><b> </b>for the third year in a row to recruit Black and LatinX talent for our Engineering Gen SWE Intern and Launch programs.</p>
+<h2>Moving forward</h2>
+<p>Our journey is just beginning. Building on the work we accomplished in 2018, here is what to expect from us in 2019:</p>
+<ul>
+<li>Build a more diverse senior leadership team. We introduced a company goal focused on increasing diversity among senior leadership and managers across Dropbox. We know that diversity of experience and representation is vital to scale our business, and we are committed to building a leadership team that reflects the makeup of our employees</li>
+<li>Deploy programs to build awareness and cultivate skills for our people managers to foster a culture of inclusion and belonging. Programs including a new series of unconscious bias training for leads and recruiting moderators across both the US and the UK </li>
+<li>Grow and expand our ERGs and align the ERG plans to support and drive company-wide diversity goals and metrics</li>
+<li>Extend our Career Development Pilot to Women@ and the LatinX ERGs</li>
+</ul>
+<p>We?re committed to building an even more diverse, equitable, and inclusive community within Dropbox in 2019, and we look forward to sharing our progress.</p>
+
+</div>
+            
+
+
+
+    
+    
+    <div class="a09-image">
+
+
+
+
+
+<div class="a09-image__wrapper ">
+    <figure class="a09-image__figure">
+        
+            
+    
+
+        
+
+        
+        
+        
+
+        
+        
+        
+
+        
+        <img src="https://aem.dropbox.com/cms/content/dam/dropbox/blog/company/2019/female-diversity-2018@2x.png" alt="Female diversity 2018" class="a09-image__img"/>
+
+        
+        
+
+    
+
+        
+        
+        <div class="a09-image__colorPane" />
+    </figure>
+</div>
+</div>
+
+
+    
+    
+    <div class="a09-image">
+
+
+
+
+
+<div class="a09-image__wrapper ">
+    <figure class="a09-image__figure">
+        
+            
+    
+
+        
+
+        
+        
+        
+
+        
+        
+        
+
+        
+        <img src="https://aem.dropbox.com/cms/content/dam/dropbox/blog/company/2019/us-ethnicity-2018@2x.png" alt="US ethnicity 2018" class="a09-image__img"/>
+
+        
+        
+
+    
+
+        
+        
+        <div class="a09-image__colorPane" />
+    </figure>
+</div>
+</div>
+
+
+
+        </div>
+    </div>
+</div>
+</div>
+
+    
+</div>]]></content:encoded>
+                    <media:thumbnail url="https://aem.dropbox.com/cms/content/dam/dropbox/blog/company/2019/Blog-DiversityReport.gif"/>
+                    <media:content url="https://aem.dropbox.com/cms/content/dam/dropbox/blog/company/2019/Blog-DiversityReport.gif" medium="image">
+                        <media:title type="html"></media:title>
+                    </media:content>
+                </item>
+            
+        
+            
+                <item>
+                    <title>Better manage complex teams with multi-team admin feature</title>
+                    <link>https://blog.dropbox.com/topics/product-tips/multi-team-admin</link>
+                    <dc:creator>Anna Liu></dc:creator>
+                    <category>Product Tips></category><category>Made in Dropbox></category>
+                    <guid>https://blog.dropbox.com/topics/product-tips/multi-team-admin</guid>
+                    <description><![CDATA[]]></description>
+                    <pubDate>Thu, 28 Feb 2019 09:00:00 -0800</pubDate>
+                    <content:encoded><![CDATA[
+<div class="aem-Grid aem-Grid--12 aem-Grid--default--12 ">
+    
+    <div class="b02-rich-text-plank text parbase aem-GridColumn aem-GridColumn--default--12">
+
+
+
+<div class="b02-rich-text-plank__wrapper">
+    <div class="b02-rich-text-plank__container  ">
+        <div class="b02-rich-text-plank__sidebar">
+
+
+
+</div>
+        <div class="b02-rich-text-plank__content">
+            <div class="a01-text">
+
+
+</div>
+            
+
+
+
+    
+    
+    <div class="a09-image">
+
+
+
+
+
+<div class="a09-image__wrapper ">
+    <figure class="a09-image__figure">
+        
+            
+    
+
+        
+
+        
+        
+        
+
+        
+        
+        
+
+        
+        
+
+        
+        <img src="https://aem.dropbox.com/cms/content/dam/dropbox/blog/files/2019/02/multi-team-admin-header.gif" alt="Animated screenshot showing Dropbox time-based comments feature" class="a09-image__img"/>
+
+    
+
+        
+        
+        <div class="a09-image__colorPane" />
+    </figure>
+</div>
+</div>
+
+
+    
+    
+    <div class="a01-text text parbase">
+
+<p>We built Dropbox Business to help teams stay organized and keep their work flowing. As many of our customers? businesses have grown, though, they?ve told us that they need to support and manage more complex team structures. So we?ve begun building tools that give complex organizations using Dropbox Business the sophisticated, centralized controls they need. As a first step, we?re introducing multi-team admin, a new feature that lets admins more easily understand and manage multiple Dropbox Business teams. </p>
+
+</div>
+
+
+    
+    
+    <div class="a09-image">
+
+
+
+
+
+<div class="a09-image__wrapper ">
+    <figure class="a09-image__figure">
+        
+            
+    
+
+        
+
+        
+        
+        
+
+        
+        
+        
+
+        
+        
+
+        
+        <img src="https://aem.dropbox.com/cms/content/dam/dropbox/blog/files/2019/02/multi-team-admin-send-request.png" alt="Screenshot of dialog box for sending a multi-team admin request" class="a09-image__img"/>
+
+    
+
+        
+        
+        <div class="a09-image__colorPane" />
+    </figure>
+</div>
+</div>
+
+
+    
+    
+    <div class="a01-text text parbase">
+
+<p>For a small startup, where everyone?s pitching in on shared responsibilities, it?s only natural to manage the company as a single team in Dropbox. But as they grow, individual departments can become full-fledged organizations unto themselves. In these situations, it?s more practical to manage each as a separate, but related, team. At the same time, it?s important to have safeguards that allow the company to know what?s happening in each. It?s a reality we?ve heard from our customers, and one that we?re helping address with the multi-team admin feature.</p>
+<p>This new feature lets you give admin privileges for your Dropbox Business team to people outside the team. For instance, say your company?s Sales, Marketing, and Finance teams each sets up a Dropbox Business account for their respective department. The admin for each can grant admin rights to a central company IT team, who can then track activity across all three Business accounts. These multi-team admins can also adjust settings for any of the individual accounts.</p>
+
+</div>
+
+
+    
+    
+    <div class="a09-image">
+
+
+
+
+
+<div class="a09-image__wrapper ">
+    <figure class="a09-image__figure">
+        
+            
+    
+
+        
+
+        
+        
+        
+
+        
+        
+        
+
+        
+        
+
+        
+        <img src="https://aem.dropbox.com/cms/content/dam/dropbox/blog/files/2019/02/multi-team-admin-sign-in.png" alt="Screenshot of window showing trusted teams in Dropbox Business admin console" class="a09-image__img"/>
+
+    
+
+        
+        
+        <div class="a09-image__colorPane" />
+    </figure>
+</div>
+</div>
+
+
+    
+    
+    <div class="a01-text text parbase">
+
+<p>The multi-team admin feature simplifies what can be a complex responsibility. Once granted access to additional teams, admins can jump back and forth between all the accounts they manage?without having to sign in and out repeatedly. And that makes expanding and managing Dropbox Business deployments easier, by giving your company visibility without forfeiting the autonomy that individual team admins need.</p>
+<p><br />
+The multi-team admin feature is available today for Dropbox Business customers through our early access program. Once activated, they can grant access to Dropbox Enterprise admins. To try it out, visit the <a href="https://www.dropbox.com/team/admin/settings/early_access?_tk=blog&amp;oqa=191pl03mbbody" target="_blank">admin console</a>.</p>
+
+</div>
+
+
+
+        </div>
+    </div>
+</div>
+</div>
+
+    
+</div>]]></content:encoded>
+                    <media:thumbnail url="https://aem.dropbox.com/cms/content/dam/dropbox/blog/files/2019/02/multi-team-admin-featured.png.transform/blogThumb/image.png"/>
+                    <media:content url="https://aem.dropbox.com/cms/content/dam/dropbox/blog/files/2019/02/multi-team-admin-featured.png.transform/blogThumb/image.png" medium="image">
+                        <media:title type="html"></media:title>
+                    </media:content>
+                </item>
+            
+        
+    </channel>
+</rss>
