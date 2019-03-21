@@ -478,7 +478,7 @@ func (h *handler) handleWriteGroups(w http.ResponseWriter, r *http.Request) {
 		var err error
 
 		if groupID == 0 {
-			err = h.store.MarkAllAsRead(userID)
+			err = h.store.MarkAllAsRead(userID, before)
 		} else {
 			err = h.store.MarkCategoryAsRead(userID, groupID, before)
 		}
